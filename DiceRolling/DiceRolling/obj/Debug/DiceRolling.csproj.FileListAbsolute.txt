@@ -1,0 +1,7 @@
+c:\users\102673815\source\repos\DiceRolling\DiceRolling\obj\Debug\DiceRolling.csprojAssemblyReference.cache
+c:\users\102673815\source\repos\DiceRolling\DiceRolling\obj\Debug\DiceRolling.csproj.CoreCompileInputs.cache
+c:\users\102673815\source\repos\DiceRolling\DiceRolling\bin\Debug\DiceRolling.exe.config
+c:\users\102673815\source\repos\DiceRolling\DiceRolling\bin\Debug\DiceRolling.exe
+c:\users\102673815\source\repos\DiceRolling\DiceRolling\bin\Debug\DiceRolling.pdb
+c:\users\102673815\source\repos\DiceRolling\DiceRolling\obj\Debug\DiceRolling.exe
+c:\users\102673815\source\repos\DiceRolling\DiceRolling\obj\Debug\DiceRolling.pdb
